@@ -1,3 +1,3 @@
 # REACT-DES-TRAINING
-## Anitha Edith
-Principal Engineer
+## Trainer : Anitha Edith
+### Principal Engineer
