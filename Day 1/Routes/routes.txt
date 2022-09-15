@@ -1,0 +1,1 @@
+https://github.com/anithaediths/react-simple-testing.git
