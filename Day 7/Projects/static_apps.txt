@@ -1,0 +1,3 @@
+http://hotel-reservation-s3-book.s3-website.ap-south-1.amazonaws.com/
+http://react-topup-2.s3-website.ap-south-1.amazonaws.com/
+http://cart-app.s3-website.ap-south-1.amazonaws.com/

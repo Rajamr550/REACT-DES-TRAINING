@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "fieldName": "Name",
+        "type" : "input",
+        "addl_inputs" : "max 50 chars"
+    },
+    {
+        "id": 2,
+        "fieldName": "email Id",
+        "type" : "input",
+        "addl_inputs" : "validate format"
+    },
+    {
+        "id": 3,
+        "fieldName": "Room Type",
+        "type" : "dropDown",
+        "values": ["Standard","Private", "Dorm"]
+    },
+    {
+        "id": 4,
+        "fieldName": "Number of Guests",
+        "type" : "Number",
+        "addl_inputs" : "minimum 2"
+    },
+    {
+        "id": 5,
+        "fieldName": "Check in Date",
+        "type" : "Calendar"
+    }
+]

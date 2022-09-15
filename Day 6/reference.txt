@@ -1,0 +1,12 @@
+React Design Principles
+https://reactjs.org/docs/design-principles.html
+https://principles.design/examples/reactjs-design-principles
+
+
+React Decorator:
+https://medium.com/@jihdeh/es7-decorators-in-reactjs-22f701a678cd
+
+
+React Memo:
+https://www.w3schools.com/REACT/react_memo.asp
+https://www.freecodecamp.org/news/memoization-in-javascript-and-react/#react-memoization-example

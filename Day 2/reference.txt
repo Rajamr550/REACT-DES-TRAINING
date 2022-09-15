@@ -1,1 +1,10 @@
-https://reactjs.org/tutorial/tutorial.html
+React Hooks Introduction:
+https://reactjs.org/docs/hooks-intro.html
+
+
+React Router:
+https://v5.reactrouter.com/web/example/basic
+https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/
+
+Redux:
+https://github.com/creativetimofficial/react-redux-tutorial/tree/master/Part%202/react-redux-tutorial (1, 2)

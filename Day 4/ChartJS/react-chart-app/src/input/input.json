@@ -1,0 +1,37 @@
+[
+    {
+        "month": "January",
+        "dataset1": 100,
+        "dataset2": 300
+    },
+    {
+        "month": "February",
+        "dataset1": 200,
+        "dataset2": 100
+    },
+    {
+        "month": "March",
+        "dataset1": 300,
+        "dataset2": 200
+    },
+    {
+        "month": "April",
+        "dataset1": 400,
+        "dataset2": 600
+    },
+    {
+        "month": "May",
+        "dataset1": 450,
+        "dataset2": 200
+    },
+    {
+        "month": "June",
+        "dataset1": 700,
+        "dataset2": 200
+    },
+    {
+        "month": "June",
+        "dataset1": 900,
+        "dataset2": 200
+    }
+]
